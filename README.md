@@ -4,7 +4,7 @@
 
 
 ### Description of tasks implemented
-Users of XE front-facing site see the classifieds that are entered in the systems by their customers. When a customer creates a classified, the systems emit a record of it and publish it to a Kafka topic. 
+Users of a certain organisation front-facing site see the classifieds that are entered in the systems by their customers. When a customer creates a classified, the systems emit a record of it and publish it to a Kafka topic. 
 
 - create an application that consumes these records, 
 - record them in a MySQL database 
