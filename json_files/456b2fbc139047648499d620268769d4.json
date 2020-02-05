@@ -1,0 +1,11 @@
+{
+    "id": "456b2fbc139047648499d620268769d4",
+    "customer_id": "5f1c9336bebf4fae8e88339fb8ced43a",
+    "created_at": "2020-01-15T21:55:41.7017503Z",
+    "text": "<p>lorem erat sit adipiscing laoreet dolore dolore magna diam lorem erat. dolor ipsum ipsum sit dolore magna sit laoreet erat erat aliquam. </p>",
+    "ad_type": "Premium",
+    "price": 23.55,
+    "currency": "EUR",
+    "payment_type": "Card",
+    "payment_cost": 0.12
+}

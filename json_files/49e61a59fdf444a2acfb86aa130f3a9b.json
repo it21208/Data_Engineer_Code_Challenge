@@ -1,0 +1,11 @@
+{
+    "id": "49e61a59fdf444a2acfb86aa130f3a9b",
+    "customer_id": "2273e4e86e1f4bdaa4522bed1327cce8",
+    "created_at": "2020-01-15T22:22:41.829445Z",
+    "text": "<p>lorem laoreet laoreet aliquam adipiscing sed ut elit sed aliquam lorem diam ipsum euismod ipsum nibh. erat sed elit dolor laoreet nibh aliquam aliquam ipsum sit diam diam ipsum consectetuer euismod amet. </p>",
+    "ad_type": "Premium",
+    "price": 24.9,
+    "currency": "EUR",
+    "payment_type": "Card",
+    "payment_cost": 0.12
+}

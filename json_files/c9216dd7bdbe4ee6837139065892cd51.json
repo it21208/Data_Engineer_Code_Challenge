@@ -1,0 +1,11 @@
+{
+    "id": "c9216dd7bdbe4ee6837139065892cd51",
+    "customer_id": "2ec88e485d094f4ea5ee3a7a9358f493",
+    "created_at": "2020-01-15T21:51:41.6174273Z",
+    "text": "<p>lorem erat laoreet magna dolore laoreet ut dolore lorem erat nonummy dolor adipiscing consectetuer ut elit. magna euismod euismod laoreet consectetuer ipsum euismod laoreet erat elit nonummy sit ut elit aliquam dolor. </p>",
+    "ad_type": "Platinum",
+    "price": 45.18,
+    "currency": "EUR",
+    "payment_type": "Card",
+    "payment_cost": 0.5
+}

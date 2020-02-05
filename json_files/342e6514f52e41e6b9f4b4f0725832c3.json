@@ -1,0 +1,11 @@
+{
+    "id": "342e6514f52e41e6b9f4b4f0725832c3",
+    "customer_id": "2a3f0f27aaf34d5e9f4a22154ba178d7",
+    "created_at": "2020-01-15T21:59:41.6176034Z",
+    "text": "<p>ipsum diam erat ipsum euismod sed euismod elit euismod euismod ipsum amet amet. ut sed diam laoreet nonummy elit ut dolor sed laoreet laoreet elit amet. </p>",
+    "ad_type": "Premium",
+    "price": 13.2,
+    "currency": "EUR",
+    "payment_type": "Paypal",
+    "payment_cost": 0.4
+}

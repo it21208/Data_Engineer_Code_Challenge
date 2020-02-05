@@ -1,0 +1,9 @@
+   "id":"d6707ce40a1447baaf012f948fb5b356", 
+   "customer_id":"8e0fdcefc3ad45acbb5a2abc506c6c9f", 
+   "created_at":"2019-05-04T23:34:19.5934998Z", 
+    "text":"<p>aliquam sed amet dolore consectetuer ut dolore elit dolor euismod elit erat</p>", 
+   "ad_type":"Premium", 
+   "price":29.04, 
+   "currency":"EUR", 
+   "payment_type":"Card", 
+   "payment_cost":0.17 

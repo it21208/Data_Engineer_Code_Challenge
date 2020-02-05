@@ -1,0 +1,11 @@
+{
+    "id": "0cd10dc096bb4bf694f04ee1c49111d3",
+    "customer_id": "bdb0d7972dbb41499abc2cd388ff62ee",
+    "created_at": "2020-01-15T21:32:41.4907001Z",
+    "text": "<p>lorem magna nibh tincidunt aliquam sed elit magna consectetuer lorem nibh diam tincidunt ipsum euismod dolor adipiscing diam dolor. dolore consectetuer magna consectetuer aliquam diam laoreet ut erat consectetuer ipsum nibh adipiscing aliquam ipsum laoreet adipiscing magna nibh. </p>",
+    "ad_type": "Premium",
+    "price": 29.9,
+    "currency": "EUR",
+    "payment_type": "Paypal",
+    "payment_cost": 0.6
+}
